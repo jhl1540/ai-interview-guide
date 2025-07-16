@@ -1,0 +1,24 @@
+# Feature Encoding
+> 작성자: [000](github.com/id)   
+> 키워드: 000
+
+## (필요시 작성) 소제목
+
+### **개념어1**
+    -
+    - 
+
+### **개념어2**
+    - 
+    - 
+
+$$
+\begin{aligned}
+\text{Adjusted } R^2 &= 1 - \left( \frac{\text{SSE}/(n - p - 1)}{\text{SST}/(n - 1)} \right) \\
+&= 1 - \left(1 - R^2\right) \cdot \frac{n - 1}{n - p - 1}
+\end{aligned}
+$$
+
+> **n**: 관측치 수 (표본 수)   
+> **p**: 독립 변수의 수  
+> **R²**: 일반 결정 계수  
